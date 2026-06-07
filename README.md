@@ -5,3 +5,4 @@ This repository contains weekly assignments completed as part of the Celebal Exc
 ## Weekly Assignments
 
 - Week 1 - Python Basics & Pandas Data Cleaning
+- Week 2 - SQL-based Data Analysis using Filtering, Aggregation, and Business Queries

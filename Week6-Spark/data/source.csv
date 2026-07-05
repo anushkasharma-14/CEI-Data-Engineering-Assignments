@@ -1,0 +1,501 @@
+user_id,product_id,product_name,category,price,base_price,amount,quantity,supplier,status,region,priority,order_date
+U3286,P792,Chair,Furniture,173.8,173.8,869.0,5,Vertex,Pending,North,High,2024-04-14
+U4257,P818,Sofa,Furniture,1132.26,1132.26,10190.34,9,Global Ltd,Pending,East,High,2025-10-27
+U4527,P204,T-Shirt,Clothing,3505.79,3505.79,21034.74,6,NextGen,Completed,East,Medium,2024-12-10
+U7201,P665,Blocks,Toys,4045.28,4045.28,32362.24,8,Vertex,Pending,South,Low,2024-03-21
+U2307,P987,Chair,Furniture,276.83,276.83,1107.32,4,NextGen,Pending,West,Low,2024-08-26
+U5374,P799,Rice,Groceries,855.14,855.14,5130.84,6,Vertex,Cancelled,South,Low,2025-12-19
+U4598,P432,Novel,Books,858.84,858.84,6011.88,7,Global Ltd,Completed,East,Medium,2025-12-02
+U6155,P771,Car,Toys,377.63,377.63,3776.3,10,NextGen,Cancelled,West,High,2024-08-05
+U8019,P508,Blocks,Toys,741.17,741.17,6670.53,9,Global Ltd,Completed,West,High,2025-08-20
+U7916,P165,Monitor,Electronics,4312.46,4312.46,12937.38,3,NextGen,Cancelled,West,Low,2025-09-02
+U2876,P649,Blocks,Toys,4856.84,4856.84,4856.84,1,Prime Supplies,Completed,East,Medium,2025-11-29
+U3927,P208,Jacket,Clothing,2295.93,2295.93,11479.65,5,Vertex,Cancelled,South,High,2025-06-03
+U9689,P713,Bread,Groceries,3824.43,3824.43,34419.87,9,NextGen,Completed,North,Medium,2024-01-01
+U2290,P849,Car,Toys,1235.29,1235.29,4941.16,4,ABC Corp,Cancelled,South,High,2024-03-28
+U7932,P652,Cream,Beauty,4736.9,4736.9,14210.7,3,Prime Supplies,Pending,East,Medium,2024-08-04
+,P702,Cream,Beauty,648.97,648.97,2595.88,4,Vertex,Completed,North,High,2024-01-22
+U2160,P343,Headphones,Electronics,1183.26,1183.26,1183.26,1,NextGen,Completed,South,Low,2025-06-10
+U4119,P199,Soap,Beauty,1252.84,1252.84,10022.72,8,Prime Supplies,Pending,West,Medium,2024-04-06
+,P919,Laptop,Electronics,3383.15,3383.15,6766.3,2,Global Ltd,Completed,South,Low,2024-12-13
+U5092,P553,Shampoo,Beauty,743.9,743.9,2231.7,3,ABC Corp,Cancelled,North,High,2024-03-18
+U7570,P268,Guide,Books,873.24,873.24,6985.92,8,ABC Corp,Pending,East,Medium,2024-03-01
+U8973,P294,Blocks,Toys,2143.89,2143.89,19295.01,9,Global Ltd,Completed,North,Low,2024-06-07
+U9701,P158,Rice,Groceries,332.97,332.97,3329.7,10,Global Ltd,Completed,North,Low,2024-06-10
+U1651,P183,Guide,Books,2048.69,2048.69,20486.9,10,Vertex,Cancelled,East,Medium,2025-09-26
+U7484,P787,Dictionary,Books,3365.14,3365.14,20190.84,6,NextGen,Pending,North,High,2024-05-14
+U2200,P318,Perfume,Beauty,3124.74,3124.74,31247.4,10,Global Ltd,Pending,North,High,2025-07-04
+U5956,P926,Rice,Groceries,1460.69,1460.69,11685.52,8,Vertex,Pending,North,High,2025-09-18
+U3546,P388,Doll,Toys,621.37,621.37,1242.74,2,Prime Supplies,Completed,East,Low,2024-10-05
+,P949,Perfume,Beauty,1293.05,1293.05,1293.05,1,ABC Corp,Completed,East,High,2025-03-09
+U8007,P109,Puzzle,Toys,849.83,849.83,6798.64,8,ABC Corp,Cancelled,South,Low,2025-07-28
+U8041,P142,Headphones,Electronics,4181.25,4181.25,41812.5,10,Prime Supplies,Completed,East,High,2024-05-10
+U7658,P867,Notebook,Books,3351.32,3351.32,20107.92,6,Global Ltd,Completed,South,Medium,2025-09-27
+U7745,P984,Phone,Electronics,937.84,937.84,5627.04,6,Prime Supplies,Completed,North,Medium,2025-11-16
+U8541,P412,Phone,Electronics,4300.04,4300.04,17200.16,4,Global Ltd,Completed,South,Medium,2024-12-24
+U5573,P756,Tea,Groceries,1429.09,1429.09,2858.18,2,Vertex,Pending,North,High,2024-12-25
+,P544,Blocks,Toys,933.91,933.91,4669.55,5,Prime Supplies,Pending,North,Medium,2025-09-02
+,P803,Notebook,Books,1310.88,1310.88,9176.16,7,Prime Supplies,Pending,North,Low,2025-07-05
+U5920,P416,Tea,Groceries,3134.62,3134.62,6269.24,2,Prime Supplies,Pending,East,Low,2025-06-03
+U3851,P682,Jacket,Clothing,999.61,999.61,6997.27,7,NextGen,Cancelled,North,Medium,2025-09-22
+U6279,P552,Car,Toys,1090.4,1090.4,10904.0,10,Global Ltd,Cancelled,West,Low,2025-04-21
+U6491,P938,Jeans,Clothing,3311.31,3311.31,16556.55,5,Prime Supplies,Completed,South,High,2024-04-05
+U2193,P524,Phone,Electronics,278.76,278.76,2230.08,8,NextGen,Pending,West,High,2025-04-11
+U2746,P324,Jeans,Clothing,3297.49,3297.49,3297.49,1,Vertex,Pending,North,Low,2025-03-11
+U8612,P643,Dictionary,Books,4591.48,4591.48,9182.96,2,NextGen,Cancelled,West,Low,2025-11-14
+U5050,P383,Soap,Beauty,4491.18,4491.18,35929.44,8,Global Ltd,Pending,West,High,2025-10-14
+U9849,P241,Doll,Toys,1210.74,1210.74,7264.44,6,Global Ltd,Pending,South,Low,2024-03-23
+U8633,P163,Notebook,Books,367.93,367.93,2575.51,7,NextGen,Pending,North,Low,2025-03-01
+U7389,P651,Bat,Sports,2411.05,2411.05,14466.3,6,NextGen,Completed,East,Medium,2025-03-05
+U7624,P960,Soap,Beauty,193.67,193.67,1162.02,6,Global Ltd,Cancelled,North,Medium,2024-06-18
+U8564,P151,Headphones,Electronics,465.54,465.54,3258.78,7,NextGen,Pending,South,Medium,2024-07-05
+U7906,P954,Rice,Groceries,1720.63,1720.63,12044.41,7,NextGen,Completed,North,Medium,2024-09-15
+U5051,P959,Novel,Books,3268.21,3268.21,3268.21,1,Vertex,Completed,South,High,2024-07-23
+U8619,P362,Perfume,Beauty,3363.82,3363.82,33638.2,10,Global Ltd,Cancelled,North,High,2025-12-17
+U7149,P832,Doll,Toys,585.09,585.09,585.09,1,ABC Corp,Cancelled,South,High,2025-02-10
+U1672,P645,Car,Toys,4258.95,4258.95,42589.5,10,Prime Supplies,Completed,East,High,2024-12-21
+U6934,P948,Gloves,Sports,4120.54,4120.54,8241.08,2,Global Ltd,Pending,South,Low,2025-10-12
+U8616,P945,Blocks,Toys,3098.77,3098.77,27888.93,9,Prime Supplies,Completed,North,Medium,2025-03-22
+U7209,P129,Soap,Beauty,1257.12,1257.12,10056.96,8,Prime Supplies,Completed,West,High,2024-12-10
+U5526,P110,Milk,Groceries,3999.27,3999.27,23995.62,6,ABC Corp,Completed,West,Medium,2025-07-23
+U1282,P401,Notebook,Books,3468.52,3468.52,27748.16,8,NextGen,Cancelled,South,Medium,2024-04-05
+U6419,P819,Tea,Groceries,2392.64,2392.64,21533.76,9,Prime Supplies,Pending,East,High,2024-12-26
+U9779,P289,Desk,Furniture,3620.36,3620.36,21722.16,6,Global Ltd,Cancelled,West,Medium,2025-12-07
+U6912,P409,Puzzle,Toys,4903.53,4903.53,19614.12,4,Vertex,Completed,East,High,2024-07-02
+U9042,P993,Laptop,Electronics,2789.13,2789.13,8367.39,3,Vertex,Pending,West,Medium,2024-04-15
+U8827,P941,Shampoo,Beauty,1736.49,1736.49,1736.49,1,NextGen,Pending,North,Low,2024-04-26
+U2395,P221,Monitor,Electronics,801.05,801.05,8010.5,10,Vertex,Cancelled,South,Low,2024-09-11
+U8025,P682,Football,Sports,2280.05,2280.05,18240.4,8,Vertex,Cancelled,North,High,2024-11-08
+U3847,P176,Notebook,Books,1360.0,1360.0,2720.0,2,ABC Corp,Pending,West,Low,2025-07-19
+U5632,P980,Soap,Beauty,1491.73,1491.73,5966.92,4,ABC Corp,Cancelled,South,Medium,2025-12-20
+U3441,P946,Notebook,Books,2154.44,2154.44,19389.96,9,ABC Corp,Completed,South,Medium,2024-09-29
+U7594,P612,Car,Toys,2223.81,2223.81,17790.48,8,NextGen,Completed,North,Medium,2024-10-05
+,P956,Rice,Groceries,3038.38,3038.38,3038.38,1,Prime Supplies,Cancelled,North,High,2025-11-21
+U3973,P546,Soap,Beauty,2618.87,2618.87,20950.96,8,ABC Corp,Pending,East,Medium,2025-08-22
+U6403,P810,Tea,Groceries,1639.24,1639.24,3278.48,2,Prime Supplies,Cancelled,West,Low,2025-02-25
+U2899,P985,Laptop,Electronics,2301.39,2301.39,13808.34,6,Vertex,Pending,West,High,2025-02-17
+U8242,P308,Dictionary,Books,2616.27,2616.27,26162.7,10,Vertex,Completed,East,Medium,2024-02-22
+U3594,P664,Shampoo,Beauty,651.06,651.06,6510.6,10,Vertex,Pending,North,High,2024-11-14
+U3522,P833,Table,Furniture,2334.17,2334.17,4668.34,2,Vertex,Cancelled,East,Medium,2025-05-25
+U3369,P295,Cream,Beauty,4902.21,4902.21,19608.84,4,ABC Corp,Pending,West,Medium,2025-01-27
+U9022,P557,Car,Toys,4111.72,4111.72,20558.6,5,Prime Supplies,Pending,West,Medium,2024-06-01
+U4826,P144,Bread,Groceries,4354.53,4354.53,17418.12,4,NextGen,Cancelled,West,Medium,2025-02-24
+U6439,P995,Shoes,Clothing,2501.88,2501.88,2501.88,1,ABC Corp,Cancelled,West,High,2024-04-12
+,P446,Shoes,Clothing,2079.39,2079.39,6238.17,3,ABC Corp,Pending,West,Medium,2024-09-28
+U4846,P800,Perfume,Beauty,4368.3,4368.3,4368.3,1,Global Ltd,Cancelled,North,Medium,2025-10-08
+U5906,P147,Table,Furniture,3813.83,3813.83,7627.66,2,ABC Corp,Pending,East,Medium,2024-01-30
+U3950,P279,Football,Sports,770.57,770.57,6935.13,9,Vertex,Pending,South,Medium,2024-06-23
+U1153,P394,Jeans,Clothing,1199.33,1199.33,5996.65,5,ABC Corp,Pending,East,Low,2025-04-21
+U8484,P303,Car,Toys,3212.75,3212.75,22489.25,7,NextGen,Completed,South,Medium,2024-11-05
+,P505,Bread,Groceries,2895.32,2895.32,14476.6,5,ABC Corp,Cancelled,North,Low,2025-11-05
+U4770,P921,Perfume,Beauty,4172.55,4172.55,20862.75,5,Global Ltd,Cancelled,South,Low,2025-09-13
+U1645,P907,Car,Toys,3404.93,3404.93,10214.79,3,ABC Corp,Cancelled,East,Low,2024-11-12
+U7807,P305,Jeans,Clothing,496.16,496.16,2480.8,5,Vertex,Pending,East,High,2024-06-28
+U5835,P923,Puzzle,Toys,4574.54,4574.54,36596.32,8,NextGen,Completed,South,High,2024-12-12
+U7464,P370,Football,Sports,4837.99,4837.99,43541.91,9,NextGen,Pending,East,Low,2024-01-15
+U4830,P125,Yoga Mat,Sports,4120.97,4120.97,24725.82,6,Vertex,Completed,North,Low,2025-04-27
+U2911,P146,Shampoo,Beauty,4551.47,4551.47,22757.35,5,Prime Supplies,Pending,North,High,2024-05-23
+U7078,P860,Guide,Books,4441.93,4441.93,13325.79,3,Vertex,Cancelled,South,Medium,2025-11-17
+U5583,P806,Table,Furniture,4176.78,4176.78,41767.8,10,Global Ltd,Pending,West,High,2024-02-03
+U6876,P507,Bread,Groceries,541.81,541.81,3250.86,6,Global Ltd,Completed,West,High,2024-03-03
+U1828,P349,Notebook,Books,3226.44,3226.44,32264.4,10,Vertex,Completed,North,Low,2024-12-07
+U3417,P102,Dictionary,Books,2952.6,2952.6,11810.4,4,Global Ltd,Completed,East,High,2025-09-02
+U6869,P702,Table,Furniture,3322.24,3322.24,3322.24,1,ABC Corp,Completed,East,High,2024-08-31
+U2041,P559,Jacket,Clothing,3721.5,3721.5,33493.5,9,Vertex,Cancelled,North,Medium,2025-05-02
+U9543,P569,Novel,Books,4729.81,4729.81,4729.81,1,ABC Corp,Pending,West,Medium,2024-11-04
+,P429,Desk,Furniture,2476.83,2476.83,19814.64,8,ABC Corp,Completed,East,Low,2024-03-23
+U8433,P719,Tea,Groceries,1935.48,1935.48,19354.8,10,ABC Corp,Cancelled,North,Low,2025-06-01
+U8430,P525,Novel,Books,2178.85,2178.85,8715.4,4,Prime Supplies,Pending,East,Low,2025-02-12
+U8770,P193,Puzzle,Toys,1902.79,1902.79,5708.37,3,ABC Corp,Pending,North,Low,2024-03-09
+,P675,Bread,Groceries,4068.26,4068.26,36614.34,9,ABC Corp,Pending,East,Low,2025-07-29
+U6119,P206,Bat,Sports,4347.06,4347.06,4347.06,1,Global Ltd,Cancelled,West,High,2024-12-26
+U5564,P331,Sofa,Furniture,1783.06,1783.06,16047.54,9,Vertex,Cancelled,North,Low,2025-08-10
+U6062,P459,Puzzle,Toys,193.32,193.32,966.6,5,Global Ltd,Completed,West,High,2024-12-13
+,P320,Shoes,Clothing,3717.8,3717.8,3717.8,1,NextGen,Pending,East,High,2025-06-27
+U2391,P259,Milk,Groceries,1592.6,1592.6,9555.6,6,Vertex,Completed,North,Medium,2024-02-23
+U7785,P320,Shampoo,Beauty,3326.6,3326.6,26612.8,8,Prime Supplies,Pending,North,Medium,2024-10-06
+,P713,Shampoo,Beauty,2658.32,2658.32,13291.6,5,ABC Corp,Completed,East,High,2025-02-08
+U1126,P864,Shoes,Clothing,3832.6,3832.6,19163.0,5,Global Ltd,Completed,West,Low,2025-05-24
+,P546,Novel,Books,2526.3,2526.3,15157.8,6,NextGen,Completed,East,Low,2024-02-13
+U7636,P432,Bat,Sports,2888.33,2888.33,20218.31,7,Vertex,Pending,East,High,2024-01-22
+U7560,P180,Gloves,Sports,4230.2,4230.2,16920.8,4,Prime Supplies,Cancelled,East,High,2025-06-20
+U2868,P622,Milk,Groceries,3906.63,3906.63,7813.26,2,Prime Supplies,Pending,South,High,2025-06-27
+U3504,P177,Desk,Furniture,774.9,774.9,3099.6,4,NextGen,Pending,West,Low,2025-11-02
+U2118,P552,Bread,Groceries,4328.02,4328.02,25968.12,6,Prime Supplies,Cancelled,North,Medium,2025-04-25
+,P951,Table,Furniture,1586.52,1586.52,12692.16,8,ABC Corp,Cancelled,North,Low,2025-01-12
+U1672,P929,Bat,Sports,2340.42,2340.42,21063.78,9,Prime Supplies,Cancelled,West,Low,2025-04-05
+U6626,P616,Jeans,Clothing,4790.73,4790.73,38325.84,8,ABC Corp,Completed,West,Medium,2024-03-27
+U6543,P712,T-Shirt,Clothing,1851.29,1851.29,9256.45,5,Prime Supplies,Completed,East,High,2025-11-26
+U6461,P696,Bat,Sports,1456.53,1456.53,14565.3,10,Prime Supplies,Pending,West,High,2024-03-24
+U6381,P786,Chair,Furniture,1582.43,1582.43,11077.01,7,NextGen,Cancelled,East,High,2024-05-10
+U8967,P331,Milk,Groceries,1578.89,1578.89,6315.56,4,Global Ltd,Completed,East,High,2024-07-15
+U7172,P266,Phone,Electronics,3326.55,3326.55,33265.5,10,Vertex,Completed,West,High,2024-06-06
+U5668,P339,Bat,Sports,1853.28,1853.28,7413.12,4,Prime Supplies,Pending,South,Medium,2025-04-04
+U9239,P528,Cream,Beauty,2335.32,2335.32,11676.6,5,Global Ltd,Cancelled,South,Medium,2025-06-24
+U2680,P966,Laptop,Electronics,3223.84,3223.84,19343.04,6,Prime Supplies,Completed,South,Medium,2025-12-29
+U2502,P936,Soap,Beauty,4531.27,4531.27,13593.81,3,Prime Supplies,Completed,West,High,2024-08-15
+U2337,P329,Football,Sports,2534.94,2534.94,10139.76,4,Prime Supplies,Completed,East,High,2025-01-18
+U3273,P580,Shoes,Clothing,239.6,239.6,1916.8,8,Vertex,Completed,North,High,2025-12-23
+U9647,P213,Blocks,Toys,1117.49,1117.49,3352.47,3,Global Ltd,Pending,North,High,2025-03-09
+U2816,P711,Novel,Books,2128.14,2128.14,21281.4,10,Vertex,Cancelled,South,Low,2025-05-26
+U4941,P526,Jeans,Clothing,1491.8,1491.8,1491.8,1,ABC Corp,Cancelled,East,High,2025-08-07
+,P482,Headphones,Electronics,1982.75,1982.75,15862.0,8,ABC Corp,Pending,North,Medium,2025-01-31
+U6447,P145,Dictionary,Books,3678.06,3678.06,7356.12,2,Vertex,Pending,South,Low,2024-05-16
+U3209,P833,Soap,Beauty,4905.05,4905.05,39240.4,8,ABC Corp,Pending,South,High,2024-03-05
+U9444,P934,Guide,Books,4434.66,4434.66,26607.96,6,Prime Supplies,Completed,South,Medium,2025-02-11
+U6438,P227,Bread,Groceries,4317.59,4317.59,4317.59,1,NextGen,Pending,West,Medium,2024-10-06
+U7018,P373,Rice,Groceries,4869.93,4869.93,38959.44,8,NextGen,Completed,West,Low,2025-06-15
+U6372,P402,Jacket,Clothing,2750.1,2750.1,16500.6,6,NextGen,Cancelled,West,High,2025-11-07
+U6776,P545,Perfume,Beauty,1790.16,1790.16,1790.16,1,ABC Corp,Completed,West,Medium,2025-09-21
+U8179,P229,T-Shirt,Clothing,4766.31,4766.31,14298.93,3,Global Ltd,Cancelled,East,Medium,2024-02-05
+U8371,P480,Gloves,Sports,4749.86,4749.86,4749.86,1,ABC Corp,Cancelled,South,Low,2025-01-14
+U2858,P853,Milk,Groceries,2020.27,2020.27,10101.35,5,NextGen,Cancelled,West,Low,2024-01-27
+U4515,P392,Sofa,Furniture,1345.79,1345.79,6728.95,5,Global Ltd,Completed,South,High,2025-09-18
+U6236,P455,Shampoo,Beauty,904.65,904.65,7237.2,8,Vertex,Cancelled,East,Medium,2025-11-14
+U9335,P224,Jeans,Clothing,3573.46,3573.46,10720.38,3,Global Ltd,Completed,West,High,2024-08-17
+U3126,P188,Rice,Groceries,2792.41,2792.41,16754.46,6,Prime Supplies,Pending,West,Low,2025-09-18
+,P757,Football,Sports,3857.36,3857.36,38573.6,10,NextGen,Pending,East,High,2024-11-20
+U1907,P630,Jeans,Clothing,3850.52,3850.52,11551.56,3,Prime Supplies,Completed,South,Medium,2024-05-07
+U2292,P301,Dictionary,Books,1762.81,1762.81,15865.29,9,Global Ltd,Cancelled,East,Low,2024-09-13
+U3526,P774,Table,Furniture,2537.74,2537.74,7613.22,3,Vertex,Completed,North,High,2024-06-24
+U4453,P526,Laptop,Electronics,4745.31,4745.31,47453.1,10,NextGen,Cancelled,East,Low,2025-08-08
+U2195,P161,Doll,Toys,2440.58,2440.58,17084.06,7,NextGen,Pending,West,Medium,2025-12-06
+U6231,P508,Notebook,Books,1733.95,1733.95,5201.85,3,Prime Supplies,Cancelled,North,Medium,2024-12-19
+U3308,P151,Dictionary,Books,2359.04,2359.04,11795.2,5,NextGen,Cancelled,West,High,2024-04-09
+U4110,P610,Shoes,Clothing,4076.72,4076.72,40767.2,10,NextGen,Pending,West,High,2024-06-12
+U4944,P697,Table,Furniture,4728.9,4728.9,42560.1,9,ABC Corp,Completed,East,Medium,2024-08-08
+U8060,P370,Perfume,Beauty,1464.45,1464.45,1464.45,1,NextGen,Pending,North,Medium,2024-05-17
+U5728,P495,Monitor,Electronics,2872.89,2872.89,11491.56,4,Vertex,Pending,North,High,2024-03-16
+U6990,P303,Sofa,Furniture,1999.82,1999.82,11998.92,6,Vertex,Completed,North,High,2024-05-27
+U3440,P627,Jeans,Clothing,3582.28,3582.28,28658.24,8,Prime Supplies,Cancelled,East,High,2025-09-12
+U9311,P645,Gloves,Sports,4953.55,4953.55,24767.75,5,Vertex,Pending,West,High,2025-06-05
+U6040,P744,Rice,Groceries,1689.64,1689.64,3379.28,2,Vertex,Pending,East,Low,2025-12-05
+U9589,P838,Guide,Books,3620.93,3620.93,36209.3,10,Global Ltd,Cancelled,South,High,2025-10-06
+U3481,P807,Desk,Furniture,994.38,994.38,7955.04,8,NextGen,Cancelled,West,Low,2025-02-26
+U6325,P589,Monitor,Electronics,3543.59,3543.59,31892.31,9,Prime Supplies,Completed,West,Low,2025-11-09
+U4150,P385,Bread,Groceries,2754.05,2754.05,13770.25,5,Global Ltd,Pending,East,Low,2024-09-09
+U6714,P914,Dictionary,Books,3466.69,3466.69,27733.52,8,Prime Supplies,Completed,West,Medium,2025-07-27
+U5712,P454,Tea,Groceries,4775.31,4775.31,14325.93,3,Prime Supplies,Cancelled,West,High,2024-03-21
+U5450,P211,Notebook,Books,4148.36,4148.36,20741.8,5,Global Ltd,Completed,South,Low,2024-05-20
+U8739,P797,Notebook,Books,309.83,309.83,2168.81,7,ABC Corp,Cancelled,South,Medium,2024-04-12
+U5706,P392,Shampoo,Beauty,2413.37,2413.37,9653.48,4,ABC Corp,Cancelled,South,Low,2024-11-24
+U3880,P956,Monitor,Electronics,4570.49,4570.49,13711.47,3,NextGen,Completed,East,High,2024-02-07
+U6489,P565,Monitor,Electronics,1527.04,1527.04,15270.4,10,Global Ltd,Cancelled,West,Medium,2024-10-18
+U8518,P363,Notebook,Books,4053.63,4053.63,24321.78,6,ABC Corp,Cancelled,East,Medium,2025-10-25
+U9442,P188,Guide,Books,918.7,918.7,6430.9,7,ABC Corp,Completed,South,Medium,2024-12-01
+U4858,P871,Bread,Groceries,4682.34,4682.34,4682.34,1,Prime Supplies,Pending,North,Medium,2025-04-02
+U8625,P263,Tea,Groceries,3479.2,3479.2,3479.2,1,Vertex,Cancelled,East,Low,2024-11-10
+U4618,P236,Sofa,Furniture,3211.62,3211.62,16058.1,5,Global Ltd,Pending,East,Medium,2024-08-12
+U2341,P557,Perfume,Beauty,3798.89,3798.89,15195.56,4,ABC Corp,Cancelled,North,High,2025-06-22
+U9525,P219,Notebook,Books,2884.87,2884.87,8654.61,3,Vertex,Pending,North,Low,2025-03-28
+U7806,P677,Shampoo,Beauty,4053.03,4053.03,32424.24,8,Vertex,Pending,East,Low,2025-04-12
+U2196,P533,Headphones,Electronics,2009.95,2009.95,2009.95,1,ABC Corp,Cancelled,North,High,2024-02-16
+U3218,P846,Soap,Beauty,207.09,207.09,1449.63,7,Prime Supplies,Pending,West,Medium,2025-10-18
+U6697,P282,Gloves,Sports,447.24,447.24,4025.16,9,Vertex,Completed,South,High,2024-05-01
+U9920,P644,Monitor,Electronics,4893.53,4893.53,39148.24,8,Global Ltd,Completed,West,Medium,2025-03-10
+,P529,T-Shirt,Clothing,1414.47,1414.47,2828.94,2,Global Ltd,Completed,North,High,2025-11-07
+U1724,P549,Phone,Electronics,2259.88,2259.88,2259.88,1,Vertex,Completed,North,High,2025-02-15
+U6253,P409,Doll,Toys,1209.1,1209.1,12091.0,10,Vertex,Completed,West,Medium,2024-08-30
+U3869,P795,Car,Toys,351.74,351.74,3517.4,10,Vertex,Pending,North,Medium,2025-10-03
+U7688,P407,Gloves,Sports,3939.73,3939.73,23638.38,6,Global Ltd,Cancelled,West,High,2024-06-01
+U1944,P522,Guide,Books,1538.65,1538.65,4615.95,3,Vertex,Cancelled,South,Medium,2025-07-29
+U8369,P194,Notebook,Books,1312.23,1312.23,7873.38,6,ABC Corp,Pending,West,Low,2025-01-14
+U4555,P313,Headphones,Electronics,4374.42,4374.42,17497.68,4,Prime Supplies,Completed,South,High,2025-05-05
+U4350,P345,Table,Furniture,3747.05,3747.05,29976.4,8,Prime Supplies,Pending,West,Low,2025-02-10
+U9147,P200,Tea,Groceries,1576.69,1576.69,9460.14,6,Prime Supplies,Completed,East,Medium,2025-04-22
+U1265,P666,Gloves,Sports,276.29,276.29,1105.16,4,Prime Supplies,Completed,South,Medium,2024-09-24
+U6530,P881,Guide,Books,1930.21,1930.21,7720.84,4,NextGen,Pending,South,Low,2024-09-20
+U9882,P160,Rice,Groceries,887.87,887.87,7990.83,9,ABC Corp,Cancelled,North,High,2025-10-19
+,P109,Bat,Sports,730.58,730.58,2922.32,4,Vertex,Pending,East,High,2024-06-03
+,P521,Shampoo,Beauty,3313.46,3313.46,3313.46,1,ABC Corp,Cancelled,East,Low,2025-07-18
+U3937,P198,Doll,Toys,134.86,134.86,944.02,7,Global Ltd,Completed,East,Medium,2024-04-19
+U7652,P678,Doll,Toys,3984.93,3984.93,7969.86,2,Global Ltd,Pending,North,Low,2025-04-15
+U8798,P752,Laptop,Electronics,512.83,512.83,3589.81,7,Global Ltd,Completed,West,Medium,2024-02-27
+U1697,P316,Tea,Groceries,2850.99,2850.99,5701.98,2,Prime Supplies,Completed,North,Low,2024-08-23
+U3938,P116,Doll,Toys,4501.59,4501.59,45015.9,10,Vertex,Completed,West,High,2024-11-18
+U7375,P653,Blocks,Toys,854.13,854.13,3416.52,4,NextGen,Cancelled,South,Low,2025-11-24
+,P337,Chair,Furniture,2528.92,2528.92,15173.52,6,Prime Supplies,Cancelled,West,Medium,2025-03-23
+U6829,P484,Monitor,Electronics,3188.91,3188.91,25511.28,8,Global Ltd,Cancelled,West,High,2025-07-20
+,P489,Doll,Toys,4000.37,4000.37,8000.74,2,NextGen,Pending,East,High,2024-06-06
+U5419,P235,Chair,Furniture,75.72,75.72,378.6,5,Global Ltd,Pending,West,Low,2024-04-14
+U2524,P712,Yoga Mat,Sports,561.3,561.3,1122.6,2,NextGen,Completed,East,Medium,2025-09-03
+U4977,P633,Bat,Sports,3906.89,3906.89,35162.01,9,NextGen,Completed,South,Medium,2025-08-08
+,P382,Car,Toys,1378.61,1378.61,4135.83,3,Prime Supplies,Pending,North,Medium,2025-03-21
+U4203,P209,Doll,Toys,4723.9,4723.9,37791.2,8,Prime Supplies,Completed,West,Medium,2025-04-13
+U8055,P708,Bat,Sports,4030.18,4030.18,24181.08,6,Prime Supplies,Pending,South,Medium,2025-10-28
+U5775,P748,Tea,Groceries,929.3,929.3,6505.1,7,Vertex,Completed,East,Medium,2025-12-12
+U4273,P658,Doll,Toys,4091.65,4091.65,28641.55,7,Vertex,Completed,West,Low,2025-08-29
+U2133,P789,Guide,Books,2220.35,2220.35,11101.75,5,Global Ltd,Cancelled,East,High,2025-02-22
+U2211,P712,Car,Toys,3310.38,3310.38,23172.66,7,Vertex,Pending,West,Low,2025-04-04
+U9796,P753,Laptop,Electronics,3964.07,3964.07,23784.42,6,ABC Corp,Completed,East,High,2025-08-31
+U6432,P208,Laptop,Electronics,2837.94,2837.94,19865.58,7,ABC Corp,Pending,South,Low,2025-03-16
+U9199,P453,Novel,Books,2256.6,2256.6,15796.2,7,NextGen,Completed,East,Medium,2024-06-03
+U6620,P903,Desk,Furniture,624.54,624.54,1873.62,3,Vertex,Pending,East,Medium,2025-04-11
+U5919,P929,Chair,Furniture,2218.92,2218.92,17751.36,8,ABC Corp,Pending,North,Low,2024-02-15
+U3623,P673,Shoes,Clothing,4653.12,4653.12,18612.48,4,NextGen,Completed,West,Low,2024-12-04
+U4232,P706,Shoes,Clothing,972.62,972.62,6808.34,7,NextGen,Completed,South,High,2025-04-05
+U9796,P474,Blocks,Toys,3774.01,3774.01,7548.02,2,Global Ltd,Pending,North,Medium,2024-07-10
+U7431,P216,Perfume,Beauty,2662.19,2662.19,15973.14,6,Prime Supplies,Pending,South,Low,2025-08-24
+,P420,Puzzle,Toys,4597.48,4597.48,45974.8,10,Global Ltd,Pending,North,High,2024-05-17
+U3258,P492,Tea,Groceries,3482.51,3482.51,31342.59,9,Global Ltd,Pending,South,Low,2025-08-11
+U8389,P154,Jacket,Clothing,2473.73,2473.73,7421.19,3,ABC Corp,Pending,South,High,2025-09-26
+U7703,P603,Gloves,Sports,4820.95,4820.95,43388.55,9,NextGen,Pending,South,High,2025-12-02
+U5503,P650,Headphones,Electronics,3989.61,3989.61,15958.44,4,Global Ltd,Pending,West,Low,2024-08-18
+U7010,P942,Chair,Furniture,2884.93,2884.93,14424.65,5,NextGen,Cancelled,South,Medium,2025-07-09
+U1528,P369,Table,Furniture,3693.14,3693.14,14772.56,4,ABC Corp,Pending,North,High,2025-04-05
+U8015,P730,Notebook,Books,4062.98,4062.98,40629.8,10,Global Ltd,Completed,North,Low,2024-06-18
+U6302,P399,Bread,Groceries,2684.79,2684.79,26847.9,10,Vertex,Pending,North,High,2025-12-21
+U3078,P986,Bat,Sports,4597.91,4597.91,22989.55,5,Global Ltd,Completed,East,High,2025-12-19
+U7786,P562,Football,Sports,2472.82,2472.82,24728.2,10,ABC Corp,Pending,East,Low,2025-01-19
+U1040,P848,Tea,Groceries,2300.74,2300.74,18405.92,8,Prime Supplies,Completed,West,High,2024-04-05
+U5646,P660,Bat,Sports,4133.0,4133.0,33064.0,8,Vertex,Pending,East,Low,2024-12-11
+,P551,Monitor,Electronics,277.42,277.42,2219.36,8,ABC Corp,Pending,South,Low,2024-06-10
+U5489,P770,Jacket,Clothing,4416.63,4416.63,22083.15,5,Prime Supplies,Completed,East,Low,2024-04-05
+U4836,P771,T-Shirt,Clothing,306.35,306.35,1531.75,5,ABC Corp,Completed,South,Medium,2025-03-15
+U8291,P108,Table,Furniture,706.86,706.86,2827.44,4,ABC Corp,Pending,South,Medium,2024-01-10
+U2678,P420,Table,Furniture,1183.29,1183.29,2366.58,2,Prime Supplies,Completed,West,High,2024-04-15
+,P268,Shoes,Clothing,388.64,388.64,3886.4,10,Prime Supplies,Cancelled,South,Low,2025-10-27
+U4559,P202,Jeans,Clothing,4603.48,4603.48,46034.8,10,ABC Corp,Cancelled,West,Medium,2024-03-29
+U2380,P666,Yoga Mat,Sports,1606.79,1606.79,4820.37,3,ABC Corp,Cancelled,East,High,2024-09-11
+U4921,P495,Novel,Books,3751.83,3751.83,18759.15,5,Global Ltd,Pending,North,Low,2025-05-21
+U7895,P659,Phone,Electronics,4935.07,4935.07,29610.42,6,NextGen,Completed,North,Low,2025-01-09
+,P908,Sofa,Furniture,118.28,118.28,473.12,4,Vertex,Pending,West,Medium,2024-03-02
+U3501,P185,Yoga Mat,Sports,458.02,458.02,4122.18,9,ABC Corp,Cancelled,South,High,2024-10-11
+U8167,P159,Milk,Groceries,1984.12,1984.12,3968.24,2,ABC Corp,Pending,North,Medium,2024-09-01
+U3248,P111,Phone,Electronics,1580.99,1580.99,4742.97,3,NextGen,Pending,East,High,2025-12-19
+U2934,P443,Tea,Groceries,678.31,678.31,3391.55,5,Prime Supplies,Cancelled,North,Medium,2024-01-31
+U9185,P270,Table,Furniture,2505.93,2505.93,22553.37,9,Global Ltd,Pending,North,Low,2025-08-03
+,P350,Chair,Furniture,1180.6,1180.6,10625.4,9,NextGen,Pending,West,High,2024-01-13
+U7870,P429,Jeans,Clothing,4659.24,4659.24,4659.24,1,NextGen,Cancelled,East,Medium,2024-08-17
+U1862,P328,Chair,Furniture,2879.1,2879.1,5758.2,2,NextGen,Completed,West,Medium,2024-07-02
+U7044,P398,Blocks,Toys,1670.14,1670.14,15031.26,9,Vertex,Completed,West,Medium,2024-07-24
+U9954,P254,Shampoo,Beauty,4989.05,4989.05,19956.2,4,NextGen,Completed,South,Low,2024-09-08
+U1023,P485,Bread,Groceries,3197.91,3197.91,3197.91,1,ABC Corp,Completed,South,Medium,2025-11-04
+U2524,P337,Soap,Beauty,4807.87,4807.87,14423.61,3,Prime Supplies,Pending,North,Low,2024-02-14
+,P163,Sofa,Furniture,2551.87,2551.87,17863.09,7,Global Ltd,Completed,East,Medium,2025-08-04
+U6345,P563,Bread,Groceries,4633.91,4633.91,32437.37,7,Global Ltd,Completed,South,High,2024-11-21
+U6145,P223,Table,Furniture,819.28,819.28,2457.84,3,Global Ltd,Pending,East,Medium,2025-02-20
+U5984,P813,Puzzle,Toys,4269.79,4269.79,8539.58,2,Global Ltd,Pending,South,High,2025-12-22
+U5896,P939,Notebook,Books,4843.58,4843.58,33905.06,7,ABC Corp,Pending,West,Low,2024-09-23
+U3290,P112,Novel,Books,518.89,518.89,1037.78,2,Global Ltd,Completed,South,Medium,2024-05-04
+U5240,P122,Rice,Groceries,3447.11,3447.11,6894.22,2,Global Ltd,Cancelled,West,High,2024-03-17
+U8552,P272,Sofa,Furniture,4530.14,4530.14,27180.84,6,NextGen,Pending,North,Medium,2024-02-21
+U5505,P556,Bat,Sports,905.4,905.4,3621.6,4,ABC Corp,Cancelled,South,Low,2024-10-13
+U2437,P492,Doll,Toys,2519.51,2519.51,22675.59,9,NextGen,Completed,South,Low,2024-10-13
+U8940,P679,Headphones,Electronics,4947.55,4947.55,29685.3,6,NextGen,Pending,South,High,2024-12-18
+U5602,P928,Tea,Groceries,3005.73,3005.73,3005.73,1,Vertex,Pending,South,High,2024-02-29
+U1916,P689,Sofa,Furniture,1276.89,1276.89,5107.56,4,Prime Supplies,Completed,South,High,2024-08-12
+U1462,P817,Bread,Groceries,4040.74,4040.74,24244.44,6,Vertex,Cancelled,South,Low,2025-12-21
+U3876,P138,Novel,Books,4191.65,4191.65,33533.2,8,ABC Corp,Completed,South,High,2025-05-17
+U3137,P834,Cream,Beauty,53.38,53.38,533.8,10,Prime Supplies,Completed,North,High,2024-12-14
+U2188,P821,Shoes,Clothing,3883.11,3883.11,34947.99,9,Vertex,Completed,East,Medium,2025-01-17
+U8157,P598,Bread,Groceries,725.44,725.44,2176.32,3,Global Ltd,Cancelled,East,High,2025-10-16
+U1029,P686,Shoes,Clothing,1923.0,1923.0,9615.0,5,Vertex,Completed,South,Low,2025-12-19
+U2705,P244,Bread,Groceries,4609.14,4609.14,46091.4,10,ABC Corp,Completed,East,Medium,2025-05-23
+U6500,P111,Jacket,Clothing,3199.12,3199.12,6398.24,2,Global Ltd,Completed,North,Medium,2025-04-02
+,P850,Car,Toys,3945.75,3945.75,3945.75,1,Global Ltd,Pending,West,Medium,2025-03-24
+U4695,P562,Rice,Groceries,2752.82,2752.82,5505.64,2,ABC Corp,Pending,North,Medium,2024-06-15
+U7151,P849,Puzzle,Toys,4760.73,4760.73,9521.46,2,Vertex,Completed,East,Low,2024-06-13
+U3703,P544,Cream,Beauty,3537.3,3537.3,24761.1,7,ABC Corp,Completed,East,High,2025-09-13
+U9849,P776,Dictionary,Books,2075.94,2075.94,18683.46,9,Prime Supplies,Completed,North,High,2024-09-28
+U6911,P537,Football,Sports,2880.26,2880.26,23042.08,8,Prime Supplies,Cancelled,West,High,2024-01-04
+U2342,P964,Chair,Furniture,177.39,177.39,532.17,3,Prime Supplies,Pending,West,Medium,2025-04-29
+U7078,P478,Doll,Toys,501.13,501.13,4510.17,9,NextGen,Completed,East,Medium,2025-01-25
+U3476,P783,Shampoo,Beauty,1353.83,1353.83,6769.15,5,ABC Corp,Cancelled,East,Low,2025-12-14
+U1999,P938,Gloves,Sports,4854.99,4854.99,48549.9,10,Vertex,Cancelled,West,Low,2025-01-31
+U1568,P684,Notebook,Books,2407.5,2407.5,4815.0,2,ABC Corp,Pending,South,High,2025-05-29
+,P799,Guide,Books,4051.88,4051.88,12155.64,3,Global Ltd,Cancelled,South,Low,2024-03-21
+,P506,Blocks,Toys,1632.76,1632.76,3265.52,2,Prime Supplies,Cancelled,West,High,2025-07-23
+U2641,P676,Football,Sports,606.97,606.97,1820.91,3,Prime Supplies,Cancelled,East,Medium,2024-04-18
+U8750,P276,Blocks,Toys,1946.07,1946.07,15568.56,8,NextGen,Completed,West,High,2024-02-08
+U1807,P375,Yoga Mat,Sports,4453.39,4453.39,26720.34,6,ABC Corp,Pending,East,Medium,2025-05-01
+U4734,P407,Car,Toys,4222.09,4222.09,8444.18,2,Prime Supplies,Pending,West,Low,2024-05-17
+U7671,P877,Table,Furniture,980.28,980.28,3921.12,4,ABC Corp,Cancelled,South,High,2025-05-11
+U9589,P129,Doll,Toys,3562.37,3562.37,24936.59,7,Global Ltd,Completed,North,High,2025-08-05
+U5488,P943,Monitor,Electronics,2309.42,2309.42,13856.52,6,Vertex,Pending,North,Low,2025-01-12
+U3909,P700,Headphones,Electronics,1247.59,1247.59,9980.72,8,Prime Supplies,Completed,East,Low,2025-04-30
+,P898,Desk,Furniture,1461.09,1461.09,10227.63,7,Global Ltd,Cancelled,South,Low,2025-08-08
+U1145,P235,Notebook,Books,1381.96,1381.96,9673.72,7,Vertex,Completed,South,Medium,2025-04-30
+U7168,P570,Blocks,Toys,3578.07,3578.07,17890.35,5,Global Ltd,Pending,East,Low,2024-12-23
+U7131,P762,Yoga Mat,Sports,2943.21,2943.21,2943.21,1,Prime Supplies,Cancelled,North,Medium,2025-07-28
+U5536,P771,Table,Furniture,1714.6,1714.6,8573.0,5,Global Ltd,Completed,South,High,2024-09-24
+U9148,P365,Gloves,Sports,3319.63,3319.63,9958.89,3,NextGen,Pending,North,Low,2024-10-29
+U8794,P467,Dictionary,Books,1748.68,1748.68,6994.72,4,Global Ltd,Cancelled,South,Medium,2025-11-18
+U3999,P443,Chair,Furniture,2380.37,2380.37,11901.85,5,Global Ltd,Pending,South,Low,2025-11-27
+U5817,P971,Puzzle,Toys,2131.34,2131.34,12788.04,6,NextGen,Completed,North,Medium,2025-04-19
+U7768,P991,Notebook,Books,2527.36,2527.36,17691.52,7,Global Ltd,Completed,East,Medium,2024-02-25
+U8988,P746,Cream,Beauty,758.96,758.96,2276.88,3,Prime Supplies,Cancelled,North,High,2024-12-06
+U3595,P904,Shampoo,Beauty,1403.96,1403.96,4211.88,3,Global Ltd,Cancelled,West,Low,2025-05-16
+U1618,P304,Yoga Mat,Sports,2046.8,2046.8,16374.4,8,ABC Corp,Pending,South,High,2025-06-30
+U6641,P232,Laptop,Electronics,3152.1,3152.1,12608.4,4,NextGen,Cancelled,East,High,2024-11-15
+U8469,P710,Table,Furniture,4128.03,4128.03,20640.15,5,NextGen,Cancelled,South,Medium,2025-06-16
+U7609,P333,Cream,Beauty,1828.29,1828.29,7313.16,4,Global Ltd,Completed,North,Low,2024-01-20
+U5190,P738,T-Shirt,Clothing,659.65,659.65,659.65,1,Vertex,Completed,North,Low,2025-07-01
+U7230,P660,Headphones,Electronics,288.76,288.76,577.52,2,NextGen,Cancelled,South,High,2024-05-06
+U5423,P720,Phone,Electronics,1540.53,1540.53,3081.06,2,NextGen,Completed,North,Medium,2025-09-29
+U4272,P951,Desk,Furniture,3934.56,3934.56,31476.48,8,Prime Supplies,Cancelled,West,Medium,2024-09-26
+U8875,P340,T-Shirt,Clothing,245.06,245.06,1960.48,8,ABC Corp,Cancelled,North,High,2024-12-04
+U2229,P362,Cream,Beauty,788.27,788.27,1576.54,2,NextGen,Pending,East,Medium,2024-04-13
+U5760,P920,Headphones,Electronics,544.05,544.05,1632.15,3,NextGen,Cancelled,North,High,2025-01-03
+U3793,P466,Monitor,Electronics,97.88,97.88,293.64,3,Vertex,Pending,North,Medium,2024-12-02
+U8479,P955,Tea,Groceries,955.2,955.2,6686.4,7,NextGen,Pending,South,High,2024-10-05
+U3611,P526,Shoes,Clothing,3496.04,3496.04,3496.04,1,Vertex,Cancelled,West,High,2024-04-16
+,P958,Bat,Sports,3906.86,3906.86,39068.6,10,NextGen,Pending,North,Medium,2025-12-01
+U1202,P989,Cream,Beauty,277.56,277.56,1387.8,5,Prime Supplies,Cancelled,North,Medium,2025-12-22
+U1894,P758,Notebook,Books,2435.55,2435.55,17048.85,7,Vertex,Pending,West,High,2024-01-12
+U5557,P619,Desk,Furniture,3769.58,3769.58,22617.48,6,Vertex,Cancelled,West,Medium,2024-02-21
+U8341,P977,Guide,Books,440.21,440.21,3521.68,8,NextGen,Pending,North,Medium,2024-03-31
+,P100,Laptop,Electronics,558.08,558.08,3906.56,7,Vertex,Cancelled,East,Low,2025-07-16
+U6953,P936,Notebook,Books,3290.25,3290.25,26322.0,8,NextGen,Pending,West,Low,2024-02-25
+,P327,Rice,Groceries,3593.77,3593.77,7187.54,2,Prime Supplies,Pending,East,Low,2025-11-05
+U9067,P941,Tea,Groceries,3525.38,3525.38,3525.38,1,ABC Corp,Pending,South,High,2024-05-23
+U4122,P210,Sofa,Furniture,4654.57,4654.57,32581.99,7,ABC Corp,Cancelled,North,Medium,2024-12-12
+U9172,P643,Shampoo,Beauty,3309.36,3309.36,29784.24,9,Vertex,Pending,West,Low,2024-01-05
+U3103,P496,Jacket,Clothing,3474.5,3474.5,10423.5,3,Vertex,Pending,West,Low,2024-04-16
+U8419,P241,Guide,Books,1404.3,1404.3,8425.8,6,Vertex,Cancelled,East,Low,2024-05-16
+U4291,P739,Bread,Groceries,3573.78,3573.78,32164.02,9,Prime Supplies,Cancelled,South,Low,2024-08-02
+U6771,P591,Shoes,Clothing,2544.27,2544.27,15265.62,6,Vertex,Pending,West,High,2025-07-29
+,P304,Table,Furniture,175.1,175.1,525.3,3,Global Ltd,Pending,East,High,2024-02-27
+U9866,P467,Monitor,Electronics,3468.44,3468.44,17342.2,5,ABC Corp,Cancelled,South,Low,2024-02-03
+U1769,P496,Gloves,Sports,1226.1,1226.1,6130.5,5,Prime Supplies,Cancelled,North,High,2025-01-25
+U7025,P659,Doll,Toys,1055.28,1055.28,8442.24,8,Global Ltd,Pending,West,High,2025-08-25
+U2955,P141,Sofa,Furniture,975.53,975.53,2926.59,3,Prime Supplies,Cancelled,East,High,2025-01-21
+,P826,Jeans,Clothing,2940.73,2940.73,14703.65,5,ABC Corp,Completed,East,Low,2025-04-22
+U5934,P908,Headphones,Electronics,3879.62,3879.62,38796.2,10,ABC Corp,Cancelled,East,Low,2025-05-17
+,P263,Guide,Books,4787.09,4787.09,43083.81,9,Vertex,Cancelled,West,High,2025-06-01
+U6424,P400,Milk,Groceries,1144.93,1144.93,4579.72,4,Vertex,Cancelled,West,Low,2025-01-04
+U4994,P798,Headphones,Electronics,617.87,617.87,3707.22,6,NextGen,Completed,West,Medium,2024-02-10
+U7143,P922,Car,Toys,172.29,172.29,1550.61,9,NextGen,Completed,East,Low,2025-06-10
+U3742,P646,Novel,Books,1635.55,1635.55,3271.1,2,ABC Corp,Completed,South,Low,2025-07-04
+U8130,P936,Football,Sports,4186.54,4186.54,16746.16,4,Global Ltd,Completed,West,Low,2025-10-24
+,P671,Rice,Groceries,237.54,237.54,475.08,2,Vertex,Completed,East,Medium,2024-09-14
+U1276,P789,Football,Sports,2283.07,2283.07,15981.49,7,Vertex,Completed,North,Low,2025-02-02
+U9238,P396,Headphones,Electronics,3519.37,3519.37,7038.74,2,Vertex,Completed,East,Medium,2024-04-18
+U9740,P239,Gloves,Sports,2005.81,2005.81,2005.81,1,Vertex,Pending,South,Medium,2024-08-13
+U3316,P142,Rice,Groceries,4789.09,4789.09,4789.09,1,Vertex,Cancelled,West,Low,2024-05-06
+U9397,P264,Desk,Furniture,1558.22,1558.22,9349.32,6,Global Ltd,Cancelled,East,High,2024-05-25
+U9992,P760,Chair,Furniture,947.72,947.72,9477.2,10,Prime Supplies,Cancelled,North,Medium,2025-04-17
+U6420,P231,Desk,Furniture,1027.22,1027.22,10272.2,10,ABC Corp,Pending,North,High,2024-12-31
+U6008,P698,Milk,Groceries,2455.01,2455.01,14730.06,6,Vertex,Cancelled,East,Medium,2025-12-11
+U4629,P857,Gloves,Sports,884.77,884.77,5308.62,6,Prime Supplies,Pending,South,Low,2025-12-30
+U6004,P664,Rice,Groceries,4395.53,4395.53,35164.24,8,Global Ltd,Cancelled,North,Medium,2025-05-13
+U2252,P119,T-Shirt,Clothing,4461.92,4461.92,17847.68,4,Vertex,Cancelled,West,Low,2024-03-18
+U9842,P769,Notebook,Books,4536.2,4536.2,40825.8,9,Prime Supplies,Pending,South,Low,2025-04-28
+U7500,P614,Puzzle,Toys,712.71,712.71,6414.39,9,Global Ltd,Cancelled,South,Low,2025-01-07
+U3395,P467,T-Shirt,Clothing,2258.79,2258.79,6776.37,3,Global Ltd,Pending,South,High,2025-05-10
+U9485,P497,Car,Toys,1878.7,1878.7,1878.7,1,NextGen,Completed,North,Low,2025-01-04
+U5480,P692,Milk,Groceries,560.96,560.96,5048.64,9,NextGen,Cancelled,West,Medium,2024-09-26
+U4651,P515,Table,Furniture,2607.48,2607.48,18252.36,7,Prime Supplies,Pending,West,Low,2025-06-12
+U4768,P626,Headphones,Electronics,2534.09,2534.09,7602.27,3,Global Ltd,Completed,South,High,2024-03-19
+U7793,P837,Rice,Groceries,3030.0,3030.0,6060.0,2,NextGen,Cancelled,West,Medium,2024-12-04
+,P230,Notebook,Books,2974.41,2974.41,20820.87,7,Global Ltd,Cancelled,North,Low,2024-02-14
+U9464,P713,T-Shirt,Clothing,326.76,326.76,1633.8,5,Prime Supplies,Completed,South,Medium,2025-02-19
+U7730,P246,Cream,Beauty,4343.15,4343.15,13029.45,3,Vertex,Cancelled,East,High,2025-09-07
+U4765,P494,Milk,Groceries,4615.64,4615.64,46156.4,10,ABC Corp,Completed,South,Low,2025-01-22
+,P729,Football,Sports,4141.25,4141.25,41412.5,10,Vertex,Cancelled,North,High,2025-05-02
+U1019,P764,Soap,Beauty,3313.99,3313.99,33139.9,10,Vertex,Pending,East,High,2025-11-25
+U7246,P703,Football,Sports,1185.96,1185.96,9487.68,8,NextGen,Completed,East,Medium,2024-12-24
+U9908,P363,Notebook,Books,4554.92,4554.92,9109.84,2,ABC Corp,Cancelled,North,Low,2025-02-22
+U6175,P470,Chair,Furniture,2622.82,2622.82,18359.74,7,Global Ltd,Pending,East,Medium,2025-02-22
+U7511,P523,Gloves,Sports,2845.12,2845.12,28451.2,10,Global Ltd,Pending,West,Medium,2024-07-27
+U2951,P557,Doll,Toys,2909.37,2909.37,20365.59,7,ABC Corp,Completed,West,Medium,2024-08-23
+U3381,P714,Monitor,Electronics,845.65,845.65,845.65,1,ABC Corp,Completed,East,High,2025-04-27
+U7564,P771,Bread,Groceries,446.2,446.2,446.2,1,Vertex,Completed,South,Low,2025-09-20
+U9489,P299,Shampoo,Beauty,2222.91,2222.91,8891.64,4,Vertex,Cancelled,South,Low,2024-10-19
+U1004,P188,Jacket,Clothing,3386.42,3386.42,20318.52,6,NextGen,Pending,West,Medium,2024-06-10
+U5661,P696,Dictionary,Books,2612.83,2612.83,5225.66,2,Prime Supplies,Pending,South,Low,2025-07-26
+U5277,P516,Novel,Books,2301.06,2301.06,16107.42,7,Vertex,Completed,East,Medium,2024-06-28
+U5098,P553,Sofa,Furniture,4024.56,4024.56,20122.8,5,Vertex,Pending,South,Medium,2025-12-11
+U8896,P364,Shampoo,Beauty,3423.89,3423.89,34238.9,10,NextGen,Cancelled,South,Low,2024-04-29
+U9462,P109,Dictionary,Books,4010.8,4010.8,28075.6,7,Global Ltd,Pending,North,Medium,2025-07-02
+U6792,P687,Bread,Groceries,426.34,426.34,1279.02,3,Global Ltd,Cancelled,South,Medium,2024-08-11
+U4387,P307,Notebook,Books,1212.56,1212.56,4850.24,4,Vertex,Pending,South,High,2024-08-22
+U9871,P968,Sofa,Furniture,4604.93,4604.93,36839.44,8,Prime Supplies,Cancelled,East,Medium,2024-02-13
+U4638,P231,Puzzle,Toys,2479.49,2479.49,22315.41,9,Vertex,Pending,West,Low,2025-08-13
+U3863,P223,Monitor,Electronics,2537.25,2537.25,17760.75,7,Prime Supplies,Cancelled,North,High,2025-04-13
+U5254,P661,Dictionary,Books,1928.17,1928.17,3856.34,2,Global Ltd,Pending,West,Low,2024-07-10
+U7866,P870,Bread,Groceries,1861.32,1861.32,14890.56,8,Prime Supplies,Pending,East,Medium,2025-12-18
+U2636,P923,Jeans,Clothing,2878.48,2878.48,28784.8,10,Vertex,Pending,West,High,2024-10-03
+U1159,P531,Shoes,Clothing,4010.19,4010.19,12030.57,3,Global Ltd,Cancelled,East,Medium,2024-06-29
+,P807,Doll,Toys,1292.32,1292.32,12923.2,10,ABC Corp,Completed,East,Medium,2024-04-11
+U6903,P670,Table,Furniture,2276.78,2276.78,13660.68,6,Prime Supplies,Completed,West,High,2025-07-27
+U9821,P899,Bread,Groceries,4343.47,4343.47,43434.7,10,Prime Supplies,Pending,West,Low,2024-06-27
+U8598,P248,Cream,Beauty,4453.68,4453.68,31175.76,7,Prime Supplies,Pending,West,High,2025-10-08
+U5773,P373,Sofa,Furniture,851.9,851.9,3407.6,4,Prime Supplies,Pending,East,Low,2025-12-28
+U3048,P777,Perfume,Beauty,2099.25,2099.25,6297.75,3,ABC Corp,Completed,South,Medium,2024-08-28
+U1431,P636,Chair,Furniture,522.99,522.99,4183.92,8,ABC Corp,Pending,South,High,2025-02-10
+U8260,P229,Bat,Sports,1581.38,1581.38,6325.52,4,Vertex,Completed,North,High,2025-10-03
+U8654,P378,Tea,Groceries,4308.83,4308.83,25852.98,6,Global Ltd,Cancelled,South,Low,2025-07-07
+U9745,P455,Soap,Beauty,3173.69,3173.69,31736.9,10,Vertex,Completed,North,Medium,2024-11-13
+U1172,P635,Doll,Toys,1860.63,1860.63,9303.15,5,Prime Supplies,Pending,West,Low,2024-01-01
+U8816,P109,Monitor,Electronics,3454.46,3454.46,27635.68,8,Prime Supplies,Cancelled,South,High,2024-11-02
+U5094,P832,Tea,Groceries,983.43,983.43,8850.87,9,NextGen,Completed,East,High,2024-06-16
+U5454,P764,Yoga Mat,Sports,3145.35,3145.35,28308.15,9,NextGen,Completed,North,High,2024-10-18
+U5458,P737,Shoes,Clothing,1483.5,1483.5,11868.0,8,Global Ltd,Pending,North,High,2025-12-18
+U2675,P375,Phone,Electronics,4850.1,4850.1,4850.1,1,NextGen,Cancelled,North,High,2024-10-15
+U7885,P904,Sofa,Furniture,795.88,795.88,6367.04,8,Prime Supplies,Pending,North,Medium,2024-11-15
+,P173,Sofa,Furniture,4225.55,4225.55,12676.65,3,Global Ltd,Completed,East,Medium,2025-02-05
+U8257,P855,Laptop,Electronics,653.71,653.71,2614.84,4,Global Ltd,Pending,North,Low,2024-09-10
+U3598,P845,Novel,Books,2390.49,2390.49,11952.45,5,Vertex,Cancelled,North,Medium,2025-10-06
+U1853,P323,Shampoo,Beauty,3210.67,3210.67,12842.68,4,Global Ltd,Cancelled,West,Medium,2025-11-13
+U7484,P109,Laptop,Electronics,878.43,878.43,4392.15,5,Vertex,Cancelled,West,Low,2024-09-05
+U9190,P802,Jacket,Clothing,1888.42,1888.42,3776.84,2,ABC Corp,Completed,East,Low,2024-04-03
+U4812,P671,Jacket,Clothing,3521.57,3521.57,7043.14,2,NextGen,Cancelled,South,High,2024-11-20
+U1646,P823,Gloves,Sports,1822.93,1822.93,5468.79,3,Vertex,Pending,West,High,2025-05-11
+U5510,P981,Jeans,Clothing,2740.92,2740.92,16445.52,6,ABC Corp,Cancelled,South,Medium,2025-09-05
+U1011,P618,Car,Toys,4106.12,4106.12,36955.08,9,Global Ltd,Completed,East,Low,2025-10-15
+U9830,P294,Guide,Books,1637.44,1637.44,3274.88,2,Vertex,Completed,East,Medium,2025-01-31
+,P168,Football,Sports,3222.47,3222.47,6444.94,2,Global Ltd,Completed,North,High,2025-11-05
+,P956,Sofa,Furniture,2452.58,2452.58,4905.16,2,NextGen,Cancelled,East,High,2025-10-19
+,P771,Tea,Groceries,1142.58,1142.58,2285.16,2,ABC Corp,Pending,North,Medium,2024-08-01
+U5355,P141,Football,Sports,4119.03,4119.03,4119.03,1,Prime Supplies,Completed,South,Low,2025-06-25
+U4104,P638,Desk,Furniture,551.06,551.06,2204.24,4,Vertex,Cancelled,South,Low,2024-07-16
+U8515,P781,Gloves,Sports,3743.24,3743.24,37432.4,10,ABC Corp,Completed,South,Low,2025-12-20
+U8258,P422,Yoga Mat,Sports,2548.23,2548.23,7644.69,3,Prime Supplies,Pending,West,Low,2024-12-26
+U7145,P862,Bread,Groceries,3061.65,3061.65,30616.5,10,Prime Supplies,Pending,West,Medium,2025-07-17
+U9480,P409,Laptop,Electronics,3645.25,3645.25,18226.25,5,Prime Supplies,Completed,South,Medium,2024-05-18
+U9376,P684,Phone,Electronics,3869.04,3869.04,19345.2,5,ABC Corp,Completed,West,Medium,2025-07-23
+U5093,P362,Jacket,Clothing,735.12,735.12,4410.72,6,ABC Corp,Cancelled,West,Low,2024-08-26
+U3832,P945,Novel,Books,3684.62,3684.62,22107.72,6,Vertex,Cancelled,East,High,2025-05-14
+U6478,P936,Gloves,Sports,438.46,438.46,438.46,1,NextGen,Completed,South,Low,2024-12-22
+,P142,Headphones,Electronics,3187.74,3187.74,22314.18,7,Vertex,Cancelled,South,Medium,2025-06-20
+U9269,P327,Guide,Books,808.33,808.33,5658.31,7,Prime Supplies,Pending,South,High,2024-04-02
+U9980,P368,Rice,Groceries,458.6,458.6,4586.0,10,NextGen,Cancelled,West,Low,2025-02-12
+U8993,P767,Jeans,Clothing,3822.06,3822.06,30576.48,8,Vertex,Cancelled,South,High,2025-02-08
+U2467,P787,Sofa,Furniture,1367.97,1367.97,9575.79,7,NextGen,Pending,East,High,2024-04-25
+U3773,P731,Tea,Groceries,1755.4,1755.4,1755.4,1,Vertex,Completed,West,High,2024-12-24
+U2405,P857,Novel,Books,1038.44,1038.44,6230.64,6,Global Ltd,Cancelled,South,Medium,2024-04-25
+U8719,P439,Phone,Electronics,1749.19,1749.19,3498.38,2,Vertex,Completed,South,Low,2024-01-24
+U3315,P815,Puzzle,Toys,2766.56,2766.56,27665.6,10,NextGen,Cancelled,North,Medium,2025-12-12
+U5444,P576,T-Shirt,Clothing,347.54,347.54,1390.16,4,ABC Corp,Pending,East,Low,2024-02-24
+U7332,P489,Rice,Groceries,4328.2,4328.2,4328.2,1,Prime Supplies,Pending,North,High,2024-08-24
+U1352,P353,Dictionary,Books,2528.22,2528.22,20225.76,8,Prime Supplies,Pending,West,Low,2024-02-10
+U5953,P613,Jacket,Clothing,140.94,140.94,845.64,6,ABC Corp,Cancelled,East,Medium,2024-08-29
+U6599,P772,Phone,Electronics,4723.48,4723.48,23617.4,5,ABC Corp,Cancelled,West,Low,2025-02-06
+U6118,P437,Guide,Books,2115.8,2115.8,21158.0,10,Vertex,Completed,South,Low,2025-09-11
+U6062,P822,Jeans,Clothing,2926.1,2926.1,11704.4,4,NextGen,Completed,South,Medium,2025-12-06
+U3384,P883,Table,Furniture,2808.83,2808.83,5617.66,2,NextGen,Pending,East,Medium,2024-01-31
+U4026,P880,Blocks,Toys,802.19,802.19,3208.76,4,Vertex,Cancelled,South,Low,2024-01-27
+U8808,P614,Guide,Books,1193.02,1193.02,1193.02,1,Prime Supplies,Completed,West,Medium,2024-05-17
+U7694,P376,Soap,Beauty,730.69,730.69,2922.76,4,Global Ltd,Cancelled,South,High,2024-01-16
+U9027,P432,Sofa,Furniture,926.54,926.54,7412.32,8,Global Ltd,Pending,West,High,2025-12-05
+U9784,P756,Football,Sports,3614.99,3614.99,25304.93,7,Vertex,Completed,West,Medium,2025-06-21
+U7481,P671,Monitor,Electronics,4395.01,4395.01,17580.04,4,Vertex,Cancelled,North,High,2024-02-10
+U5684,P270,Car,Toys,2225.79,2225.79,11128.95,5,Prime Supplies,Cancelled,North,Low,2025-04-17
+,P215,Jeans,Clothing,2344.72,2344.72,18757.76,8,Vertex,Cancelled,South,Medium,2025-05-27
+U4308,P192,Yoga Mat,Sports,1651.13,1651.13,1651.13,1,Prime Supplies,Cancelled,South,Low,2025-04-10
+U2397,P824,Sofa,Furniture,501.4,501.4,4011.2,8,Vertex,Cancelled,South,Medium,2025-06-20
+U3459,P989,Bat,Sports,267.34,267.34,802.02,3,Global Ltd,Cancelled,North,Medium,2024-06-15
+U3960,P234,Doll,Toys,1582.12,1582.12,12656.96,8,ABC Corp,Cancelled,East,High,2024-04-30
+U1094,P605,Cream,Beauty,2513.26,2513.26,20106.08,8,Global Ltd,Cancelled,West,Medium,2025-09-14
+U5009,P384,Bat,Sports,2237.28,2237.28,22372.8,10,ABC Corp,Completed,South,High,2025-07-14
+U5889,P189,Rice,Groceries,231.77,231.77,231.77,1,ABC Corp,Pending,South,High,2024-12-05
+U3906,P867,Blocks,Toys,3074.89,3074.89,30748.9,10,ABC Corp,Completed,East,Medium,2025-04-11
+U2063,P582,Milk,Groceries,4492.77,4492.77,8985.54,2,ABC Corp,Cancelled,East,Medium,2024-10-26
+U2790,P847,Football,Sports,2647.0,2647.0,10588.0,4,NextGen,Cancelled,East,Medium,2025-08-08
+U6797,P729,Tea,Groceries,1335.32,1335.32,13353.2,10,Vertex,Cancelled,West,Medium,2024-05-12
+U4171,P221,T-Shirt,Clothing,4424.14,4424.14,17696.56,4,NextGen,Cancelled,North,Low,2024-01-02
+U6468,P673,Notebook,Books,4007.84,4007.84,28054.88,7,ABC Corp,Cancelled,South,Low,2024-12-24
+U9301,P431,Puzzle,Toys,1309.37,1309.37,2618.74,2,ABC Corp,Cancelled,East,Medium,2025-07-17
+U3877,P438,Yoga Mat,Sports,3635.76,3635.76,36357.6,10,NextGen,Pending,North,Low,2024-07-17
+U9797,P573,Shoes,Clothing,2433.4,2433.4,19467.2,8,ABC Corp,Cancelled,East,Low,2024-12-09

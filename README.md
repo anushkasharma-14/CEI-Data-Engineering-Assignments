@@ -11,3 +11,4 @@ This repository contains weekly assignments completed as part of the Celebal Exc
 - Week 5 - Apache Spark Fundamentals, DataFrame Operations, and Data Processing
 - Week 6 - Apache Spark DataFrames, Data Processing, File Formats, and Performance Concepts
 - Week 7 - Delta Lake Incremental Data Processing using MERGE and Medallion Architecture
+- Week 8 - End-to-End E-Commerce Analytics System using Python, Pandas, MySQL, SQLite, SQL Analytics, Customer Segmentation, and Reporting

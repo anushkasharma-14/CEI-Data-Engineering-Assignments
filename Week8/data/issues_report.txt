@@ -1,0 +1,17 @@
+Data Quality Report
+===================
+
+Invalid Emails: 10
+CUST0020
+CUST0056
+CUST0103
+CUST0114
+CUST0196
+CUST0241
+CUST0419
+CUST0440
+CUST0447
+CUST0471
+
+Invalid Order References: 1
+ORD99999
